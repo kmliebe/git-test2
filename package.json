@@ -1,0 +1,22 @@
+{
+  "name": "git-test2",
+  "version": "1.0.0",
+  "description": "Second attempt at resetting this Angular project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmliebe/git-test2.git"
+  },
+  "author": "kmliebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmliebe/git-test2/issues"
+  },
+  "homepage": "https://github.com/kmliebe/git-test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
